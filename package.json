@@ -1,0 +1,22 @@
+{
+  "name": "irsa-astro-analyzer",
+  "version": "1.0.0",
+  "description": "Astronomical Object Analyzer using NASA/IPAC IRSA Data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in-drz/IRSA-Astro-Analyzer.git"
+  },
+  "author": "Drazen Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/in-drz/IRSA-Astro-Analyzer/issues"
+  },
+  "homepage": "https://github.com/in-drz/IRSA-Astro-Analyzer#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.10.0"
+  }
+}
